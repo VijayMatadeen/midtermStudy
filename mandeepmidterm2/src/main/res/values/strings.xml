@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Mandeepmidterm2</string>
+    <string name="radioButton1">Register [New User]</string>
+    <string name="radioButton2">Login [Existing User]</string>
+    <string name="radioButton3">Exit</string>
+    <string name="Button">Submit</string>
+    <string name="textView1">Please fill out the form below</string>
+    <string name="userName">Username:</string>
+    <string name="password">Password:</string>
+    <string name="id">Student ID:</string>
+    <string name="editUser"></string>
+    <string name="editPassword"></string>
+    <string name="editID"></string>
+    <string name="Return">Return</string>
+    <string name="commit">Commit</string>
+    <string name="user">Username</string>
+    <string name="Password">Password</string>
+    <string name="login">Login</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mandeepmidterm1</string>
+    <string name="button">Call</string>
+    <string name="button2">Launch Browser</string>
+    <string name="button3">Insert WebView</string>
+    <string name="textView">Welcome to Mandeep Singh N01230342</string>
+</resources>

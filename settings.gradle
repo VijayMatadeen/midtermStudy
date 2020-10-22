@@ -1,0 +1,4 @@
+include ':app'
+include ':mandeepmidterm2'
+include ':midterStudy'
+rootProject.name = "midtermStudy"
